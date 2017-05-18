@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Filiphe\Documents\Circuitos\TrabalhoCircuitos\simulation\qsim
+vTrabalhoCircuitos
+Z1 I4bYXfHEHgO16:U>LBGeU02
+Z2 VVbHISH7QG]?@ED:;V=KMY3
+Z3 dC:\Users\Filiphe\Documents\Circuitos\TrabalhoCircuitos\simulation\qsim
+Z4 w1495142504
+Z5 8TrabalhoCircuitos.vo
+Z6 FTrabalhoCircuitos.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 n@trabalho@circuitos
+!i10b 1
+Z10 !s100 hK80KA>OZ`IF@7C6P_KEX0
+!s85 0
+Z11 !s108 1495142508.500000
+Z12 !s107 TrabalhoCircuitos.vo|
+Z13 !s90 -work|work|TrabalhoCircuitos.vo|
+!s101 -O0
+vTrabalhoCircuitos_vlg_check_tst
+!i10b 1
+!s100 1efiRYn1ICBnn[3c24:2X1
+IJQ:]JJnMocnh?_dk9[nH02
+VUcbWFEF9A216g@W2_RVZa0
+R3
+Z14 w1495142502
+Z15 8TrabalhoCircuitos.vwf.vt
+Z16 FTrabalhoCircuitos.vwf.vt
+L0 63
+R7
+r1
+!s85 0
+31
+Z17 !s108 1495142508.934000
+Z18 !s107 TrabalhoCircuitos.vwf.vt|
+Z19 !s90 -work|work|TrabalhoCircuitos.vwf.vt|
+!s101 -O0
+R8
+n@trabalho@circuitos_vlg_check_tst
+vTrabalhoCircuitos_vlg_sample_tst
+!i10b 1
+!s100 J8<Tkzb422aB`A]cAOCzb0
+IID?Tonl17hBd[a`iYeG5l2
+Vdc8eU[=EW[0TAS1Y`4oRL1
+R3
+R14
+R15
+R16
+L0 29
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R8
+n@trabalho@circuitos_vlg_sample_tst
+vTrabalhoCircuitos_vlg_vec_tst
+!i10b 1
+!s100 ClYTd7VPmMdF:d`478bh[1
+IiPizIzdThh]HioC6U2Rg^0
+VfC1kgf8QE5A<ac@a`:SfN1
+R3
+R14
+R15
+R16
+L0 158
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R8
+n@trabalho@circuitos_vlg_vec_tst

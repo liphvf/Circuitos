@@ -1,0 +1,12 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/Filiphe/Documents/Circuitos/TrabalhoCircuitos/TrabalhoCircuitos.bdf
+source_file = 1, C:/Users/Filiphe/Documents/Circuitos/TrabalhoCircuitos/TrabalhoCircuitos.vwf
+source_file = 1, C:/Users/Filiphe/Documents/Circuitos/TrabalhoCircuitos/db/TrabalhoCircuitos.cbx.xml
+design_name = TrabalhoCircuitos
+instance = comp, \SAIDA~output , SAIDA~output, TrabalhoCircuitos, 1
+instance = comp, \B~input , B~input, TrabalhoCircuitos, 1
+instance = comp, \A~input , A~input, TrabalhoCircuitos, 1
+instance = comp, \C~input , C~input, TrabalhoCircuitos, 1
+instance = comp, \D~input , D~input, TrabalhoCircuitos, 1
+instance = comp, \inst8~0 , inst8~0, TrabalhoCircuitos, 1
+instance = comp, \~QUARTUS_CREATED_GND~I , ~QUARTUS_CREATED_GND~I, TrabalhoCircuitos, 1
